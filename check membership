@@ -1,0 +1,7 @@
+text = "python"
+
+print("p" in text)
+
+Output
+
+True
