@@ -1,0 +1,6 @@
+text = "PYTHON"
+print(text.lower())
+
+Output
+
+python
