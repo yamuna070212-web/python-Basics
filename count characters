@@ -1,0 +1,6 @@
+text = "hello"
+print(len(text))
+
+Output
+
+5
