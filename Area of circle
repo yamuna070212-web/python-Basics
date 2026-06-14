@@ -1,0 +1,7 @@
+radius = 7
+area = 3.14 * radius * radius
+print(area)
+
+Output
+
+153.86
