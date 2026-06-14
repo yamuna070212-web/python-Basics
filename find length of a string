@@ -1,0 +1,6 @@
+text = "Python"
+print(len(text))
+
+Output
+
+6
