@@ -1,0 +1,4 @@
+print(not True)
+
+Expected Output
+False
