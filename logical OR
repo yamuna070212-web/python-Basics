@@ -1,0 +1,4 @@
+print(True or False)
+
+Expected Output 
+True
