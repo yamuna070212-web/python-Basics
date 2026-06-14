@@ -1,0 +1,9 @@
+length = 10
+breadth = 5
+
+perimeter = 2 * (length + breadth)
+print(perimeter)
+
+Output
+
+30
