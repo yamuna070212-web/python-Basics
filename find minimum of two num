@@ -1,0 +1,8 @@
+a = 50
+b = 80
+
+print(min(a, b))
+
+Output
+
+50
