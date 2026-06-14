@@ -1,0 +1,17 @@
+name = "Yamuna"
+print(type(name))
+
+
+
+
+
+
+
+
+
+
+
+
+expected Output
+
+<class 'str'>
